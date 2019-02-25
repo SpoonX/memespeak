@@ -1,0 +1,15 @@
+{
+  "name": "memespeak",
+  "version": "1.0.0",
+  "description": "mAkE StRiNgS InTo sPoNgEbOb mEmErS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "spongebob": "./index.js",
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
